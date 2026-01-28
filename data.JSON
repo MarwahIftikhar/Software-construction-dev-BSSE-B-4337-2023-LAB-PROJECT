@@ -26,5 +26,12 @@
         "age": 32,
         "department": "SE",
         "salary": 3333000.0
+    },
+    {
+        "emp_id": "1",
+        "name": "marwah",
+        "age": 20,
+        "department": "se",
+        "salary": 23000000.0
     }
 ]
